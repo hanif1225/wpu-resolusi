@@ -3,5 +3,4 @@ Rencana Konten WPU
   - PHP 8
   - Laravel 7
   - Laravel 8
-  -belajar lagi ya
-- Belajar Laravel
+  -  Mencoba Lagi
