@@ -1,3 +1,8 @@
 Rencana Konten WPU
 - Belajar PHP
+  - PHP 7
+  - PHP 8
+  - Laravel 7
+  - Laravel 8
+  
 - Belajar Laravel
